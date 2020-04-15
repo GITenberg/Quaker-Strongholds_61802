@@ -1,11 +1,16 @@
 _repo: Quaker-Strongholds_61802
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61802-h/images/cover.jpg
 creator:
   author:
     agent_name: Stephen, Caroline Emelia
     gutenberg_agent_id: '51619'
     url: http://www.gutenberg.org/2009/agents/51619
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61802#Quaker-Strongholds
 gutenberg_issued: '2020-04-10'
 gutenberg_type: Text
 identifiers:
